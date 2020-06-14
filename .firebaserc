@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "drawty-68f8c": {
+      "hosting": {
+        "drawty": [
+          "drawty-68f8c"
+        ]
+      }
+    }
+  }
+}
